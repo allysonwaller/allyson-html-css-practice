@@ -1,0 +1,10 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 62.5%;  
+}
+
+p, ul {
+  font-size: 1.2rem
+  margin-bottom: 12px   
+}
+
